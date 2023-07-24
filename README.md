@@ -8,3 +8,8 @@ Program uses a flood-fill algorithm, based on the recursion method (recalling th
 Player wins by finding all the free spaces, or by marking all the mine locations.
 
 Player loses by marking a mine location as free.
+
+To run the program in console, navigate to main program directory within console
+
+Type (or copy/paste):
+  java -jar Main.jar
